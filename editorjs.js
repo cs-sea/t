@@ -8382,7 +8382,7 @@
                                         return o.blockTools.get(t).sanitizeConfig
                                     }));
                                 case 9:
-                                    d.log(t)
+                                    d.log(t);
                                     return l = t.sent, t.abrupt("return", this.makeOutput(l));
                                 case 13:
                                     t.prev = 13, t.t0 = t.catch(2), d.logLabeled("Saving failed due to the Error %o", "error", t.t0);
