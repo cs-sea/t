@@ -8430,6 +8430,7 @@
                             n = 0,
                             o = [];
                         return d.log("[Editor.js saving]:", "groupCollapsed"), t.forEach((function(t) {
+                            d.log(t)
                             var r = t.id,
                                 i = t.tool,
                                 a = t.data,
