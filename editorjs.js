@@ -8426,6 +8426,7 @@
                 }, {
                     key: "makeOutput",
                     value: function(t) {
+                        d.log(t)
                         var e = this,
                             n = 0,
                             o = [];
