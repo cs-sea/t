@@ -8382,7 +8382,7 @@
                                         return o.blockTools.get(t).sanitizeConfig
                                     }));
                                 case 9:
-                                    l1 = t.sent;
+                                    let l1 = t.sent;
                                     d.log('---------------------------');
                                     d.log(l1);
                                     d.log('---------------------------');
